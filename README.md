@@ -13,12 +13,12 @@ I am a Full Stack Web Developer <br>I am currently doing full stack projects.<br
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Tharunkunamalla&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tharunkunamalla&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunkunamalla&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=TharunKunamalla&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TharunKunamalla&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TharunKunamalla&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Tharunkunamalla&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TharunKunamalla&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
