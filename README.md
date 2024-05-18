@@ -5,7 +5,7 @@ I am a Full Stack Web Developer <br>I am currently doing full stack projects.<br
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-kunamalla-b9b477288/)Tharun Kunamalla
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-kunamalla-b9b477288/) - Tharun Kunamalla
 
 # 💻 Tech Stack:
 
@@ -19,6 +19,6 @@ I am a Full Stack Web Developer <br>I am currently doing full stack projects.<br
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=TharunKunamalla&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Tharunkunamalla&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
